@@ -11,7 +11,7 @@ float abs(float a);
 
 float max_dist(float* array, int array_size); // Permet l'utilisation de tableau de taille non-connue
 // On pourrait parfaitement déclarer la fonction comme ça:
-// float max_dist(float array[CONSTANTE];
+// float max_dist(float array[CONSTANTE]);
 // e.g: float max_dist(float array[7]); prendra un tableau de 7 valeurs
 
 #endif //DEMONILS_FUNCS_H
