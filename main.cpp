@@ -2,6 +2,13 @@
 
 #include "funcs.h"
 
+/*
+ * SUJETS :
+ * - Afficher les n premier nombres premiers (0 à n)
+ * - Une fonction qui renvoie le nombre avec la plus grand distance à zero d'une liste de valeurs contenues dans un tableau
+ *
+ */
+
 int main() {
     int n = 0;
     std::cout << "Entrez un nombre : ";
